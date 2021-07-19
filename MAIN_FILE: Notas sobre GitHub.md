@@ -6,3 +6,5 @@
 1. Crear y configurar un nuevo repositorio
 2. Crear una nueva rama
 3. Realizar cambios y guardarlos
+4. Iniciar un solicitud de incorporacion de cambios (Pull Request)
+5. Incorporar las modificaciones (Merge)
